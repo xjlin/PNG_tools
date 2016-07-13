@@ -1,7 +1,5 @@
 # install a bunch of PNG tools on mac
 
-===
-
 pngcrush
     
     cd pngcrush-1.8.1
