@@ -53,4 +53,7 @@ gifsicle(only for CentOS)
 
 svgo(only for CentOS)
 
-    npm install -g svgo
+    sudo yum install npm(if can't)
+    sudo yum install epel-release
+    sudo yum -y install npm --enablerepo=epel
+    sudo npm install -g svgo
